@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jayc00.
+- 👋 Hi, I’m @jayc00..
 - 👀 I’m interested in foing back.
 - 🌱 I’m currently learning foing back.
 - 💞️ I’m looking to collaborate on foing back.
